@@ -445,7 +445,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.latency@2.0 \
     vendor.qti.latency@2.1 \
     dirac_resource \
-    dirac_resource \
+    dirac_resource_vendor \
     libadsp_fd_skel \
     libadsp_hvx_add_constant \
     libadsp_hvx_skel \

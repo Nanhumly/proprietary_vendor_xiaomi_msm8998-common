@@ -10606,7 +10606,7 @@ prebuilt_rfsa {
 }
 
 prebuilt_rfsa {
-    name: "dirac_resource",
+    name: "dirac_resource_vendor",
     filename: "dirac_resource.so",
     owner: "xiaomi",
     src: "proprietary/vendor/lib/rfsa/adsp/dirac_resource.so",
